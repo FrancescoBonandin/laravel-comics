@@ -35,7 +35,7 @@
                             </p> --}}
 
                             <div>
-                                {{$singledata['price']}} €
+                                {{$singledata['price']}}
                             </div>
 
                             
